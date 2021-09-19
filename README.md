@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋 Welcome to my GitHub! My name is LA (Ellie) ❤
 
-<!--
-**CallMeLa/CallMeLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Twitter Follow](https://img.shields.io/twitter/follow/xLaraBTW?style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=callmela)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### aboutMe.js
+
+```javascript
+const LA = {
+    pronouns: "she" | "her",
+    code: [Javascript, Java, Python, Other],
+    askMeAbout: ["video editing", "development", "managing", "marketing", "music", "coffee"],
+};
+```
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
+
