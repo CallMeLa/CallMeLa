@@ -12,6 +12,7 @@ const LA = {
     pronouns: "she" | "her",
     code: [Javascript, Java, Python, Other],
     askMeAbout: ["video editing", "development", "managing", "marketing", "music", "coffee"],
+    discord: "https://discord.gg/FhTgqtarZJ"
 };
 ```
 
