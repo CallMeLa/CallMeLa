@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my GitHub! My name is LA (Ellie) ❤
+## Hi there 👋 Welcome to my GitHub profile! My name is LA (Ellie) ❤
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/xLaraBTW?style=social)
