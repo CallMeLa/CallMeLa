@@ -3,6 +3,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/xLaraBTW?style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=callmela)
+![Discord Shield](https://discordapp.com/api/guilds/799605212243165224/widget.png?style=shield)
 
 ### aboutMe.js
 
