@@ -2,7 +2,7 @@
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/xLaraBTW?style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=callmela)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=callmela)
 
 ### aboutMe.js
 
