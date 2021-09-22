@@ -10,7 +10,7 @@
 ```javascript
 const LA = {
     pronouns: "she" | "her",
-    code: [Javascript, Java, Python, Other],
+    code: [Javascript, Java, Python, BDScript, AutoHotkey, Other],
     askMeAbout: ["video editing", "development", "managing", "marketing", "music", "coffee"],
     discord: "https://discord.gg/FhTgqtarZJ"
 };
